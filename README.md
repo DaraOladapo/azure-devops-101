@@ -5,3 +5,12 @@ During my career as a Software Developer and DevOps Engineer, I have learnt quit
 In this brief guide, I will put together what I believe should be the steps to take to get started with Azure DevOps - that's DevOps using Microsoft all-in-one DevOps solution.
 
 I hope you enjoy it.
+
+## Outline
+
+Module | Goal
+---|---
+DevOps Overview| Exploring a general overview DevOps
+DevOps Engineer Career
+Anything after
+  
